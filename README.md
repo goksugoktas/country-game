@@ -31,7 +31,7 @@ Bu proje, **Android Studio** kullanılarak geliştirilmiş bir mobil uygulamadı
 1. Android Studio'yu açın.
 2. Bu projeyi klonlayın ya da zip olarak indirip açın:
    ```bash
-   git clone https://github.com/kullanici-adi/proje-adi.git
+   git clone https://github.com/goksugoktas/country-game.git
 # Country Guessing Game - Mobile Programming Project
 
 This project is a mobile application developed using **Android Studio**. The aim of the app is to show a country image and let the user guess the correct country name. Users lose lives with incorrect guesses, and they can get hints that reduce the score.
@@ -65,4 +65,4 @@ This project is a mobile application developed using **Android Studio**. The aim
 1. Open Android Studio.
 2. Clone or download the project:
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/goksugoktas/country-game.git
